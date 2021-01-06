@@ -1,12 +1,15 @@
 {
   "type": "module",
-  "name": "float-calc",
-  "version": "1.0.0",
+  "name": "float-calc-expression",
+  "version": "1.0.2",
   "description": "Used to calculate floating point numbers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "lxh",
-  "license": "ISC"
+  "license": "ISC",
+  "files":[
+    "./index.js"
+  ]
 }
